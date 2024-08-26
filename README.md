@@ -1,6 +1,6 @@
 
 
-<b>AI Chatbot, Image Generator & Language Translator App | OpenAI ChatGPT | Google Gemini AI | AI Assistant | Dart 3 & Flutter 3.13 🚀 with Free OpenAI Trial </b></br>
+<b>AI Chatbot, Image Generator & Language Translator App | OpenAI ChatGPT | Google Gemini AI | AI Assistant with Free OpenAI Trial </b></br>
 
 
 
