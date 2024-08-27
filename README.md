@@ -4,9 +4,9 @@
 
 
 
-<b>Note:</b> Some Features of Above Apk may not work as expected due to Api Key Expiry (Because it uses Free Trial of OpenAI Api).
+<b>Note:</b> Some Features of App may not work as expected due to Api Key Expiry (Because it uses Free Trial of OpenAI Api).
 
-<b>Some ScreenShots(Actual App Even Looks Better 😃):</b></br><br>
+<b>Some ScreenShots(Actual App Even Looks Better ):</b></br><br>
 <kbd>
 <img src="https://github.com/HarshAndroid/ai_assistant/blob/master/sample%20apk/screenshots/1_d.png" width=30% height=30%/>
 <img src="https://github.com/HarshAndroid/ai_assistant/blob/master/sample%20apk/screenshots/2_d.png" width=30% height=30%/>
@@ -21,7 +21,7 @@
 <br>
 <br>
   
- <b>Features👇 : </b>
+ <b>Features : </b>
 <ul>
 <li>Ai Chatbot (with GPT + Google Gemini Ai)
 <li>Facebook Ads Integration (For Sample)
